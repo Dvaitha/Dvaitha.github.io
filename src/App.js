@@ -9,8 +9,10 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import reactGa from 'react-ga';
 
 class App extends Component {
+
 
   constructor(props){
     super(props);
@@ -41,6 +43,8 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+    reactGa.initialize('UA-194866312-1')
+    reactGa.pageview('/')
   }
 
   render() {

@@ -81,6 +81,10 @@
     ],
     "skills":[
       {
+        "name":"Docker",
+        "level":"70%"
+      },
+      {
         "name":"JAVA",
         "level":"90%"
       },

@@ -2,7 +2,7 @@
   "main": {
     "name":"Dhaval Vaitha",
     "occupation":"Devops Engineer | Full Stack Developer",
-    "description":"Currently, I am Working as Devops(Site Reliability Engineer) Engineer and also concurrently getting my hands dirty by creating Projects as a Full Stack Developer",
+    "description":"Currently, I am Working as Devops Engineer and also concurrently getting my hands dirty on Terraform and Azure Devops",
     "image":"profilepic.jpg",
     "bio":"I am a Software Engineer in Gujarat,India with a passion for computer science, apart from that i like listening to music, driving and playing Games.",
     "contactmessage":"Cold messaging is the best way to get in contact with anyone, so feel free to contact me in the Email Mentioned",
@@ -67,9 +67,15 @@
     ],
     "work":[
       {
+        "company":"Openxcell",
+        "title":"Devops Engineer",
+        "years":"Nov 2022 - Present",
+        "description":"CI/CD pipeline automation is my main responsibility, which streamlines the deployment of applications to servers. As well as managing the Production and Development environments in a variety of cloud providers, I am also creating a variety of cloud environments."
+      },
+      {
         "company":"Crest Data Systems",
-        "title":"Devops Engineer(Site Reliability Engineer)",
-        "years":"June 2020 - Present",
+        "title":"Devops Engineer",
+        "years":"June 2020 - Oct 2022",
         "description":"I am working as a SRE role in Splunk which undertakes various technologies such as AWS, Github,puppet, thruk, Splunk Web, Linux, Jenkins etc."
       },
       {

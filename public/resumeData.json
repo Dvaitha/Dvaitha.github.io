@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Dhaval Vaitha",
-    "occupation":"Devops Engineer | Full Stack Developer",
+    "occupation":"Devops Engineer",
     "description":"Currently, I am Working as Devops Engineer and also concurrently getting my hands dirty on Terraform and Azure Devops",
     "image":"profilepic.jpg",
     "bio":"I am a Software Engineer in Gujarat,India with a passion for computer science, apart from that i like listening to music, driving and playing Games.",
@@ -67,7 +67,7 @@
     ],
     "work":[
       {
-        "company":"Openxcell",
+        "company":"OpenXcell",
         "title":"Devops Engineer",
         "years":"Nov 2022 - Present",
         "description":"CI/CD pipeline automation is my main responsibility, which streamlines the deployment of applications to servers. As well as managing the Production and Development environments in a variety of cloud providers, I am also creating a variety of cloud environments."
